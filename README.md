@@ -3,7 +3,7 @@ Training an algorithm to predict whether a patient has a disease based on their 
 
 # TensorFlow Neural Network Algorithm
 # Summary:
-The TensorFlow Neural Network algorithm is designed to predict whether a patient is at risk of a disease based on symptoms and their severity. It utilizes a binary classification approach and employs a neural network architecture for model training and evaluation.
+The TensorFlow Neural Network algorithm is designed to predict whether a patient is at risk of a disease based on symptoms and their severity. It utilizes a binary classification approach and employs a neural network architecture for model training and evaluation. This algorithm was created as a backup in case the DecisionTree algorithm failed.
 # Functionality:
 Data Preparation:
 * Merges two datasets containing disease symptoms and symptom severity.
