@@ -4,7 +4,6 @@ Train an algorithm to recognize disease symptoms and predict if a patient is at 
 # TensorFlow Neural Network Algorithm
 # Summary:
 The TensorFlow Neural Network algorithm is designed to predict whether a patient is at risk of a disease based on symptoms and their severity. It utilizes a binary classification approach and employs a neural network architecture for model training and evaluation.
-
 # Functionality:
 Data Preparation:
 * Merges two datasets containing disease symptoms and symptom severity.
@@ -23,10 +22,9 @@ Usage:
 * Monitor accuracy and F1 score to gauge model effectiveness in disease risk prediction
 
 # DecisionTree Algorithm
-Summary:
+# Summary:
 The DecisionTree algorithm is another approach for predicting disease risk based on symptom data. It utilizes decision tree methodology to classify patients into risk categories.
-
-Functionality:
+# Functionality:
 *Data Preparation:
   * Similar to TensorFlow algorithm, prepares data for classification.
 * Decision Tree Model:
